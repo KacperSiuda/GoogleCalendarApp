@@ -23,7 +23,7 @@ namespace GoogleCalendarApiTest_v1
         {
             InitializeComponent();
             conectToCalendar();
-            UpdateListBox();
+            UpdateGrid();
         }
         public void conectToCalendar()
         {
@@ -45,7 +45,7 @@ namespace GoogleCalendarApiTest_v1
             {
                 calendarConect.CreateEvent(String.Format("Urlop: {0}", textBox1.Text), dateTimePicker1.Value, dateTimePicker2.Value);
                 MessageBox.Show("Utworzono wydarzenie", "Sukces", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                UpdateListBox();
+                UpdateGrid();
 
             }
             catch (Exception ex)
@@ -58,6 +58,13 @@ namespace GoogleCalendarApiTest_v1
 
         private void button3_Click(object sender, EventArgs e)
         {
+            string eventID = null;
+            foreach (DataGridViewRow row in dataGridView1.SelectedRows)
+            {
+                eventID = row.Cells[0].Value.ToString();
+            }
+            calendarConect.DeleteEvent(eventID);
+            UpdateGrid();
             //try
             //{
             //    DialogResult deleteWindow = MessageBox.Show(String.Format("Czy na pewno chcesz usunąć wydarzenie : {0}", listBox1.SelectedItem),
@@ -82,16 +89,28 @@ namespace GoogleCalendarApiTest_v1
 
         }
 
-        private void UpdateListBox()
+        private void UpdateGrid()
         {
             try
             {
                 eventList = calendarConect.GetEventList();
+                dataGridView1.Rows.Clear();
+                dataGridView1.Refresh();
                 foreach (var item in eventList)
                 {
+                    int index = dataGridView1.Rows.Add();
+                    string key = item.Key;
+                    string summary = item.Value.Summary;
+                    DateTime dateStart = (DateTime)item.Value.Start.DateTime;
+                    DateTime dateEnd = (DateTime)item.Value.End.DateTime;
+                    dataGridView1.Rows[index].Cells[0].Value = key;
+                    dataGridView1.Rows[index].Cells[1].Value = summary;
+                    dataGridView1.Rows[index].Cells[2].Value = dateStart.ToString("d MMM yyyy");
+                    dataGridView1.Rows[index].Cells[3].Value = dateEnd.ToString("d MMM yyyy");
 
-                    dataGridView1.Rows.Add(item.Value.ToString());
+
                 }
+                dataGridView1.Refresh();
             }
             catch (Exception ex)
             {

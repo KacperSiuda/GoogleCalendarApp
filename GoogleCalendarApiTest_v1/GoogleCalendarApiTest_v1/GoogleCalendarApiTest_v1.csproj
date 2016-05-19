@@ -95,14 +95,6 @@
     <Compile Include="GoogleAPI\GoogleApiConector.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WorkerData.cs">
-      <DependentUpon>WorkerData.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="WorkerData.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>WorkerData.xsd</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -130,17 +122,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="WorkerData.xsc">
-      <DependentUpon>WorkerData.xsd</DependentUpon>
-    </None>
-    <None Include="WorkerData.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>WorkerData.Designer.cs</LastGenOutput>
-    </None>
-    <None Include="WorkerData.xss">
-      <DependentUpon>WorkerData.xsd</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

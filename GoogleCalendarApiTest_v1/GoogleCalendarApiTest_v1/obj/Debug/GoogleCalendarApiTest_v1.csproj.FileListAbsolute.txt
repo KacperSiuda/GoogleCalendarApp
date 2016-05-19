@@ -70,6 +70,42 @@ C:\Users\Kacper\Documents\Visual Studio 2015\Projects\GoogleCalendarApiTest_v1\G
 C:\Users\Kacper\Documents\Visual Studio 2015\Projects\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.Form1.resources
 C:\Users\Kacper\Documents\Visual Studio 2015\Projects\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.Properties.Resources.resources
 C:\Users\Kacper\Documents\Visual Studio 2015\Projects\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.csproj.GenerateResource.Cache
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\GoogleCalendarApiTest_v1.exe.config
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.exe
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.pdb
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\client_secret.json
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\GoogleCalendarApiTest_v1.exe
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\GoogleCalendarApiTest_v1.pdb
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Core.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\log4net.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Zlib.Portable.dll
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.pdb
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.xml
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.Core.xml
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\log4net.xml
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\Zlib.Portable.xml
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.Form1.resources
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.Properties.Resources.resources
+C:\Users\Kacper\Source\Repos\GoogleCalendar\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.csproj.GenerateResource.Cache
 C:\Users\Kacper\Source\Repos\GoogleCalendarApp\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\bin\Debug\GoogleCalendarApiTest_v1.exe.config
 C:\Users\Kacper\Source\Repos\GoogleCalendarApp\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.exe
 C:\Users\Kacper\Source\Repos\GoogleCalendarApp\GoogleCalendarApiTest_v1\GoogleCalendarApiTest_v1\obj\Debug\GoogleCalendarApiTest_v1.pdb
